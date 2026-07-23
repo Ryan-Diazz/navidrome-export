@@ -1,6 +1,6 @@
 # navidrome-export CLI
 
-A lightweight C++ CLI tool to export your entire Navidrome music library as CSV or TXT files.
+A lightweight C++ CLI tool to export all the songs in your Navidrome music library as CSV or TXT file.
 
 ## Features
 
